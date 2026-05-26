@@ -1,0 +1,177 @@
+{
+    "acompanamiento_ter": [],
+    "administracion": [],
+    "automatizacion": [],
+    "ciencia_datos_lic": [],
+    "ciencia_datos_tec": [],
+    "ciencia_politica": [],
+    "comunicacion_dig": [],
+    "diseno_producto": [],
+    "enfermeria": [],
+    "ensenanza_mat": [],
+    "gestion_org": [],
+    "logistica_lic": [],
+    "logistica_tec": [],
+    "programacion": [
+        {
+            "anio": "1° Año",
+            "cuatrimestre": "Primer Cuatrimestre",
+            "horas": "64",
+            "id": 269,
+            "nombre": "Ciencia, Tecnologia e Innovacion"
+        },
+        {
+            "anio": "1° Año",
+            "cuatrimestre": "Primer Cuatrimestre",
+            "horas": "96",
+            "id": 2,
+            "nombre": "Matematica General"
+        },
+        {
+            "anio": "1° Año",
+            "cuatrimestre": "Primer Cuatrimestre",
+            "horas": "96",
+            "id": 184,
+            "nombre": "Algoritmos y estructura de datos"
+        },
+        {
+            "anio": "1° Año",
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "64",
+            "id": 270,
+            "nombre": "Organizacion de Computadoras"
+        },
+        {
+            "anio": "1° Año",
+            "archivo_pdf": "algebra.pdf",
+            "correlativas": [
+                "Matematica General"
+            ],
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "96",
+            "id": 177,
+            "materiales": [
+                "modelo_parcial_1.pdf",
+                "modelo_parcial_3.pdf",
+                "modelo_parcial_2.pdf"
+            ],
+            "nombre": "Algebra"
+        },
+        {
+            "anio": "1° Año",
+            "correlativas": [
+                "Algoritmos y estructura de datos"
+            ],
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "96",
+            "id": 271,
+            "nombre": "Programacion de Computadoras"
+        },
+        {
+            "anio": "1° Año",
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "64",
+            "id": 272,
+            "nombre": "Ingles Tecnico I"
+        },
+        {
+            "anio": "2° Año",
+            "correlativas": [
+                "Organizacion de Computadoras"
+            ],
+            "cuatrimestre": "Primer Cuatrimestre",
+            "horas": "64",
+            "id": 273,
+            "nombre": "Sistemas Operativos"
+        },
+        {
+            "anio": "2° Año",
+            "correlativas": [
+                "Algoritmos y estructura de datos",
+                "Programacion de Computadoras"
+            ],
+            "cuatrimestre": "Primer Cuatrimestre",
+            "horas": "96",
+            "id": 187,
+            "nombre": "Estructura de Datos"
+        },
+        {
+            "anio": "2° Año",
+            "correlativas": [
+                "Algoritmos y estructura de datos"
+            ],
+            "cuatrimestre": "Primer Cuatrimestre",
+            "horas": "96",
+            "id": 274,
+            "nombre": "Bases de Datos I"
+        },
+        {
+            "anio": "2° Año",
+            "correlativas": [
+                "Programacion de Computadoras",
+                "Estructura de Datos"
+            ],
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "96",
+            "id": 275,
+            "nombre": "Programacion Avanzada"
+        },
+        {
+            "anio": "2° Año",
+            "correlativas": [
+                "Estructura de Datos"
+            ],
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "96",
+            "id": 189,
+            "nombre": "Ingenieria de Software I"
+        },
+        {
+            "anio": "2° Año",
+            "correlativas": [
+                "Programacion de Computadoras",
+                "Bases de Datos I"
+            ],
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "64",
+            "id": 186,
+            "nombre": "Laboratorio de Computacion"
+        },
+        {
+            "anio": "3° Año",
+            "cuatrimestre": "Primer Cuatrimestre",
+            "horas": "96",
+            "id": 276,
+            "nombre": "Redes de Computadoras"
+        },
+        {
+            "anio": "3° Año",
+            "cuatrimestre": "Primer Cuatrimestre",
+            "horas": "64",
+            "id": 277,
+            "nombre": "Conceptos y Paradigmas de Lenguajes de Programacion"
+        },
+        {
+            "anio": "3° Año",
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "96",
+            "id": 278,
+            "nombre": "Programacion Concurrente"
+        },
+        {
+            "anio": "3° Año",
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "96",
+            "id": 191,
+            "nombre": "Inteligencia Artificial"
+        },
+        {
+            "anio": "3° Año",
+            "cuatrimestre": "Segundo Cuatrimestre",
+            "horas": "64",
+            "id": 279,
+            "nombre": "Metodologias Agiles para el Desarrollo de Software"
+        }
+    ],
+    "protesis_dental": []
+}
